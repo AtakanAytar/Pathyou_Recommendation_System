@@ -21,7 +21,7 @@ namespace data_puller_c__.net
             SqlCommand command ;
             string sql = null;
             SqlDataReader Reader ;  
-            var path = @"C:\Users\Aspire3\Desktop\cma\data_puller_c#_.net\user_lp_like.txt";
+            var path = @"user_lp_like.txt";
             using var sw = new StreamWriter(path);
             sw.WriteLine("UserId,Lpid");
             //sql = "SELECT Tag,Id FROM Tags;";
@@ -70,7 +70,7 @@ namespace data_puller_c__.net
             string sql = null;
             SqlDataReader Reader ;  
             
-            var path = @"C:\Users\Aspire3\Desktop\cma\data_puller_c#_.net\user_info.txt";
+            var path = @"user_info.txt";
             using var sw = new StreamWriter(path);
              sw.WriteLine("user_id birthdate_Year gender location");
             //sql = "SELECT Tag,Id FROM Tags;";
@@ -99,7 +99,7 @@ namespace data_puller_c__.net
                 sw.WriteLine(user_id+","+birthdate.Year+","+gender+","+loc);
                
                 
-                 
+                  
         
             }
             }
@@ -124,7 +124,7 @@ namespace data_puller_c__.net
             string sql = null;
             SqlDataReader Reader ;  
             
-            var path = @"C:\Users\Aspire3\Desktop\cma\data_puller_c#_.net\lp_category.txt";
+            var path = @"lp_category.txt";
             using var sw = new StreamWriter(path);
             sw.WriteLine("UserId,Lpid");
             //sql = "SELECT Tag,Id FROM Tags;";

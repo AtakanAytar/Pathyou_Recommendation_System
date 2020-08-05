@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aspire3\\Desktop\\cma\\data_puller_c#_.net\\data_puller_c#_.net.csproj": {}
+    "C:\\Users\\Aspire3\\Desktop\\Atakan_AcerAspire3\\Rec\\RecommendationSystem_For_Pathyou_app_dummy (final)\\data_puller_c#_.net\\data_puller_c#_.net.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aspire3\\Desktop\\cma\\data_puller_c#_.net\\data_puller_c#_.net.csproj": {
+    "C:\\Users\\Aspire3\\Desktop\\Atakan_AcerAspire3\\Rec\\RecommendationSystem_For_Pathyou_app_dummy (final)\\data_puller_c#_.net\\data_puller_c#_.net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aspire3\\Desktop\\cma\\data_puller_c#_.net\\data_puller_c#_.net.csproj",
+        "projectUniqueName": "C:\\Users\\Aspire3\\Desktop\\Atakan_AcerAspire3\\Rec\\RecommendationSystem_For_Pathyou_app_dummy (final)\\data_puller_c#_.net\\data_puller_c#_.net.csproj",
         "projectName": "data_puller_c#_.net",
-        "projectPath": "C:\\Users\\Aspire3\\Desktop\\cma\\data_puller_c#_.net\\data_puller_c#_.net.csproj",
+        "projectPath": "C:\\Users\\Aspire3\\Desktop\\Atakan_AcerAspire3\\Rec\\RecommendationSystem_For_Pathyou_app_dummy (final)\\data_puller_c#_.net\\data_puller_c#_.net.csproj",
         "packagesPath": "C:\\Users\\Aspire3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aspire3\\Desktop\\cma\\data_puller_c#_.net\\obj\\",
+        "outputPath": "C:\\Users\\Aspire3\\Desktop\\Atakan_AcerAspire3\\Rec\\RecommendationSystem_For_Pathyou_app_dummy (final)\\data_puller_c#_.net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aspire3\\AppData\\Roaming\\NuGet\\NuGet.Config"
