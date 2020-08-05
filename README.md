@@ -2,6 +2,7 @@
 This is the main project i worked on during my second internship all the code belongs to me.Its a kNN recommendation system that i implemented from scratch. 
 
 
+Recommendation system for the pathyou app.
 
 Originally preprocess and kNN was seperate programs but in order to make it more robust i combined them before i turned them into executables.
 ****Summary If You Dont Want To Read Detailed explonation****
