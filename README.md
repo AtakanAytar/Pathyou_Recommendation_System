@@ -1,5 +1,5 @@
 # Pathyou_Recommendation_System
-This is the main project i worked on during my second internship all the code belongs to me.Its a kNN recommendation system that i implemented from scratch
+This is the main project i worked on during my second internship all the code belongs to me.Its a kNN recommendation system that i implemented from scratch. *
 
 
 
