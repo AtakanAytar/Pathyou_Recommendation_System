@@ -1,9 +1,9 @@
 # Pathyou_Recommendation_System
-This is the main project i worked on during my second internship all the code belongs to me.Its a kNN recommendation system that i implemented from scratch. *
+This is the main project i worked on during my second internship all the code belongs to me.Its a kNN recommendation system that i implemented from scratch. 
 
 
 
-Originally preprocess and kNN was seperate programs but in order to make it more robust i combined them before i turned them into executables
+Originally preprocess and kNN was seperate programs but in order to make it more robust i combined them before i turned them into executables.
 ****Summary If You Dont Want To Read Detailed explonation****
 c# sql puller connects to the microsoft azure database and pull 3 tables in the form of text files
 at preprocess stage i process them into a single data set after removing duplicates and doing other things that i explained below which gives me processed txts and the final data set
