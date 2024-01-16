@@ -5,6 +5,6 @@
     <RootNamespace>data_puller_c__.net</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.1"/>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6"/>
   </ItemGroup>
 </Project>
